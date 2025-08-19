@@ -24,13 +24,13 @@ Clone the repository and run the development server:
 
 npm install
 npm run dev
-# or
+or
 yarn install
 yarn dev
-# or
+or
 pnpm install
 pnpm dev
-# or
+or
 bun install
 bun dev
 
